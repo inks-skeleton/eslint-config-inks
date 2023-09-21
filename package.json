@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-inks",
+  "version": "1.0.0",
+  "description": "inks skeleton eslint standard",
+  "main": "index.js",
+  "author": "YanEr",
+  "peerDependencies": {"eslint": ">= 3"},
+  "license": "ISC",
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint-config",
+    "inks",
+    "skeleton",
+    "inks-skeleton"
+  ]
+}
